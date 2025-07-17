@@ -4,7 +4,7 @@
 🔍 My research interests focus on **Reasoning in Large Language Models (LLMs)** 
 
 ### 📫 How to reach me :  3220102633@zju.edu.cn
-Feel free to connect or reach out for collaboration or discussion: 3220102633@zju.edu.cn
+
 
 <!--
 **hearthht/hearthht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
